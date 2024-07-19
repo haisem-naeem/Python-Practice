@@ -60,6 +60,6 @@ Contributions are welcome! If you have any suggestions, improvements, or new exe
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](#license) file for more information.
 
 
