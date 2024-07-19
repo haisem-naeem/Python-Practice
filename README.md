@@ -28,4 +28,38 @@ To get started with this repository, you'll need to have Python installed on you
 
 1. Clone this repository to your local machine using:
    ```sh
-   git clone https://github.com/your-username/python-practice.git
+   git clone https://github.com/haisem-naeem/python-practice.git
+2. Navigate to the repository directory:
+   ```sh
+   cd python-practice
+3. Install any required dependencies (if any). Typically, you can use pip to install dependencies listed in a requirements.txt file:
+   ```sh
+   pip install -r requirements.txt
+
+##How To Use
+
+###Running Python Scripts
+
+To run the Python scripts, simply use the Python interpreter from the command line:
+```sh
+python grade_calculator.py
+```
+###Using Jupyter Notebooks
+To open and run the Jupyter notebooks, follow these steps:
+   1. Make sure you have Jupyter Notebook installed. If not, you can install it using pip:
+      ```sh
+      pip install notebook
+   2. Start the Jupyter Notebook server:
+      ```sh
+      jupyter notebook
+   3. Open the practice.ipynb notebook and start practicing the exercises provided.
+
+##Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or new exercises to add, please feel free to create a pull request or open an issue.
+
+##License
+
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+
