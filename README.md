@@ -36,15 +36,15 @@ To get started with this repository, you'll need to have Python installed on you
    ```sh
    pip install -r requirements.txt
 
-##How To Use
+## How To Use
 
-###Running Python Scripts
+### Running Python Scripts
 
 To run the Python scripts, simply use the Python interpreter from the command line:
 ```sh
 python grade_calculator.py
 ```
-###Using Jupyter Notebooks
+### Using Jupyter Notebooks
 To open and run the Jupyter notebooks, follow these steps:
    1. Make sure you have Jupyter Notebook installed. If not, you can install it using pip:
       ```sh
@@ -54,11 +54,11 @@ To open and run the Jupyter notebooks, follow these steps:
       jupyter notebook
    3. Open the practice.ipynb notebook and start practicing the exercises provided.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or new exercises to add, please feel free to create a pull request or open an issue.
 
-##License
+## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
